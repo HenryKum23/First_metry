@@ -1,0 +1,7 @@
+My First hand try
+
+So i started this personal practice wthout going through the note to check my understanding. I deleted all my repo in Github, then i crearted a repo which i clone and started working on in my terminal.
+
+I created a file name Elorm.txt and created a branch called Elorm_branch and them i checkout brach to work on the new branch.
+
+Thanks
