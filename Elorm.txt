@@ -5,3 +5,5 @@ So i started this personal practice wthout going through the note to check my un
 I created a file name Elorm.txt and created a branch called Elorm_branch and them i checkout brach to work on the new branch.
 
 Thanks
+
+This last write up is a confirmation of how successfully the process has been and a final edit on Github. Thanks
